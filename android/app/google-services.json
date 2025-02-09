@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390036103861",
+    "project_id": "al-wasset-app-af86c",
+    "storage_bucket": "al-wasset-app-af86c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390036103861:android:42372ee88c2452355694fc",
+        "android_client_info": {
+          "package_name": "com.example.waseet_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJvVRDNRIK7unDrPYnk5KPeJ27svOqdB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

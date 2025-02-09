@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Layer_2" data-name="Layer 2" transform="translate(0 0.12)">
+    <g id="Layer_3" data-name="Layer 3">
+      <rect id="Rectangle_1177" data-name="Rectangle 1177" width="24" height="24" transform="translate(0 -0.12)" opacity="0"/>
+    </g>
+    <g id="Layer_2-2" data-name="Layer 2" transform="translate(2 4)">
+      <path id="Path_875" data-name="Path 875" d="M21,12.76V4H20V6.42H18a13.42,13.42,0,0,0-12,0H4V4H3V7.42H3v5.33H3a1,1,0,0,0-1,1v4a1,1,0,0,0,1,1H4.5V20h1V18.75h13V20h1V18.75H21a1,1,0,0,0,1-1v-4A1,1,0,0,0,21,12.76ZM6,7.42h.24l.21-.11a12.42,12.42,0,0,1,11.11,0l.21.11H20v5.33H19V12a2,2,0,0,0-2-2H13.5a2,2,0,0,0-1.5.69A2,2,0,0,0,10.5,10H7a2,2,0,0,0-2,2v.75H4V8H4V7.42Zm5.5,5.33H6V12a1,1,0,0,1,1-1h3.5a1,1,0,0,1,1,1Zm1-.75a1,1,0,0,1,1-1H17a1,1,0,0,1,1,1v.75H12.5ZM21,17.75H3v-4H21Z" transform="translate(-2 -4)"/>
+    </g>
+  </g>
+</svg>
